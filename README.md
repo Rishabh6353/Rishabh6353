@@ -9,7 +9,7 @@
 - 👀 I’m interested in Web Development, Machine Learning, and building impactful projects.
 - 🌱 I’m currently learning MERN stack, AI/ML fundamentals, and sharpening my DSA skills in Java.
 - 💞️ I’m looking to collaborate on open-source projects, hackathons, and innovative ideas that solve real-world problems.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/Rishabh--Prajapati) | rishabh.connect@gmail.com
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/Rishabh--Prajapati) | rishabhp.connect@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love participating in hackathons — solving problems with creativity and code is my kind of fun!
 
