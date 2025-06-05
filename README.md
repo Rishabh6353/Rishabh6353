@@ -11,9 +11,8 @@
 - 🔭 I’m passionate about **Web Development**, **Real-time applications**, and solving real-world problems with code.
 - 🌱 Currently learning: **Next.js**, **JAVA**, and sharpening my **DSA** skills in Java.
 - 🤝 Looking to collaborate on **open-source projects**, **hackathons**, and impactful ideas.
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/Rishabh--Prajapati) | 📧 rishabhp.connect@gmail.com
+- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/rishabh-prajapati-b76bb3367) | 📧 rishabhp.connect@gmail.com
 - 💬 Pronouns: He/Him
-- 🧠 Fun Fact: Hackathons are my playground — I love solving problems with creativity and caffeine!
 
 ---
 
