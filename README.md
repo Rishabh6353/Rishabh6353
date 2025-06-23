@@ -8,12 +8,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Passionate about **web development**, **real-time apps**, and building meaningful tech.
-- 🌱 Currently learning: **Next.js**, **Java**, and sharpening my **DSA** skills.
-- 🤝 Looking to collaborate on **open-source projects**, **hackathons**, and impactful side-projects.
+- 🔭 Passionate about **web development**, **real-time applications**, and solving real-world problems with code.
+- 🌱 Currently learning **Next.js**, **Java**, and leveling up my **DSA** skills.
+- 🤝 Open to collaborating on **open-source projects**, **hackathons**, or impactful side-projects.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishabh-prajapati-b76bb3367)  
   📧 Email: **rishabhp.connect@gmail.com**
 - 💬 Pronouns: He/Him
+
+---
+
+## 📈 Recently Active
+
+> 💡 Just getting started with consistent GitHub contributions —  
+> Logged **100+ contributions in 2025** and actively building more projects now!
 
 ---
 
@@ -42,10 +49,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishabh6353&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh6353&theme=radical" height="165px" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh6353&layout=compact&theme=radical&langs_count=8" />
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh6353&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rishabh6353&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh6353&layout=compact&theme=radical&langs_count=8)
 
 </div>
 
@@ -58,12 +66,13 @@ If you’re working on:
 - 🚀 Startup ideas  
 - 🏆 Hackathons  
 
-**I’m in!**  
-Let’s build something impactful together.
+**Count me in!**  
+Let’s connect and build something impactful together.
 
-📩 Connect via [LinkedIn](https://www.linkedin.com/in/rishabh-prajapati-b76bb3367) or email me at **rishabhp.contact@gmail.com**
+📩 [Message me on LinkedIn](https://www.linkedin.com/in/rishabh-prajapati-b76bb3367)  
+📧 Or drop an email: **rishabhp.contact@gmail.com**
 
 ---
 
-> _"Consistency beats motivation."_  
+> _“Consistency beats motivation.”_  
 > 🛠 Currently building, learning, and preparing for placements.
