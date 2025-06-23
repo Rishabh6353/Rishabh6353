@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Next.js**, **Java**, and leveling up my **DSA** skills.
 - 🤝 Open to collaborating on **open-source projects**, **hackathons**, or impactful side-projects.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishabh-prajapati-b76bb3367)  
-  📧 Email: **rishabhp.connect@gmail.com**
+  📧 Email: **rishabhp.contact@gmail.com**
 - 💬 Pronouns: He/Him
 
 ---
