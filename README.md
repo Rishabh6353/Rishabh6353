@@ -76,4 +76,3 @@ Let’s connect and build something impactful together.
 
 > _“Consistency beats motivation.”_  
 > 🛠 Currently building, learning, and preparing for placements.
-<img width="1902" height="943" alt="image" src="https://github.com/user-attachments/assets/3b6e1234-3d22-483c-985c-c5a2364cd067" />
